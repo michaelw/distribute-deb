@@ -1,3 +1,9 @@
+distribute (0.6.24-1ubuntu1instart1) precise; urgency=low
+
+  * Use https for pypi mirror (http was deprecated in Oct 2017)
+
+ -- Michael Weber <mweber@instartlogic.com>  Sun, 29 Oct 2017 18:27:27 -0700
+
 distribute (0.6.24-1ubuntu1) precise; urgency=low
 
   * Stop building for python2.6.
